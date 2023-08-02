@@ -1,0 +1,9 @@
+article:nth-child(2) p:nth-child(1)::before{
+    content: url(../icons/rating.svg);
+    }
+    article:nth-child(2) p:nth-child(2)::before{
+    content:url(../icons/Reviews.svg) ;
+    }
+    article:nth-child(2) p:nth-child(3)::before{
+        content: url(../icons/Students.svg);
+       }
